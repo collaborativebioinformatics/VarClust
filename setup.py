@@ -22,7 +22,7 @@ setup(name='VarClust',
           'pyvcf',
           'numpy',
           'matplotlib',
-          'sklearn',
+          'scikit-learn',
           'seaborn',
           'scipy'
       ],
